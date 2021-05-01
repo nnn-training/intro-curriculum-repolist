@@ -44,10 +44,10 @@
 |  4章8節  |  [dom-manipulation-4007](https://github.com/nnn-training/dom-manipulation-4007)  |  [intro-curriculum-4007](https://github.com/nnn-training/intro-curriculum-4007)  |
 |  4章9節  |  [ajax-study-4008](https://github.com/nnn-training/ajax-study-4008)  |  [intro-curriculum-4008](https://github.com/nnn-training/intro-curriculum-4008)  |
 |  4章10節  |  [websocket-study-4009](https://github.com/nnn-training/websocket-study-4009)  |  [intro-curriculum-4009](https://github.com/nnn-training/intro-curriculum-4009)  |
-|  4章12節  |  [rdb-study](https://nnn-training.github.io/rdb-study)  |    |
-|  4章13節  |  [rdb-study](https://nnn-training.github.io/rdb-study)  |    |
-|  4章14節  |  [rdb-study](https://nnn-training.github.io/rdb-study)  |    |
-|  4章15節  |  [rdb-study](https://nnn-training.github.io/rdb-study)  |    |
+|  4章12節  |  [rdb-study](https://github.com/nnn-training/rdb-study)  |    |
+|  4章13節  |  [rdb-study](https://github.com/nnn-training/rdb-study)  |    |
+|  4章14節  |  [rdb-study](https://github.com/nnn-training/rdb-study)  |    |
+|  4章15節  |  [rdb-study](https://github.com/nnn-training/rdb-study)  |    |
 |  4章17節  |    |  [intro-curriculum-4016](https://github.com/nnn-training/intro-curriculum-4016)  |
 |  4章18節  |  [schedule-arranger-4017](https://github.com/nnn-training/schedule-arranger-4017)  |    |
 |  4章19節  |  [schedule-arranger-4018](https://github.com/nnn-training/schedule-arranger-4018)  |  [intro-curriculum-4018](https://github.com/nnn-training/intro-curriculum-4018)  |
