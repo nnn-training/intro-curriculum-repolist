@@ -40,10 +40,10 @@
 |  4章4節  |  [github-oauth](https://github.com/nnn-training/github-oauth)  |  [practice-intro-4003](https://github.com/nnn-training/practice-intro-4003)  |
 |  4章5節  |  [damage-calc-4004](https://github.com/nnn-training/damage-calc-4004)  |  [practice-intro-4004](https://github.com/nnn-training/practice-intro-4004)  |
 |  4章6節  |  [damage-calc-4005-gh-actions](https://github.com/nnn-training/damage-calc-4005-gh-actions)  |    |
-|  4章7節  |  [webpack-study-4006](https://github.com/nnn-training/webpack-study-4006) <br> [damage-calc-4006](https://github.com/nnn-training/damage-calc-4006) |  [intro-curriculum-4006](https://github.com/nnn-training/intro-curriculum-4006)  |
-|  4章8節  |  [dom-manipulation-4007](https://github.com/nnn-training/dom-manipulation-4007)  |  [intro-curriculum-4007](https://github.com/nnn-training/intro-curriculum-4007)  |
-|  4章9節  |  [ajax-study-4008](https://github.com/nnn-training/ajax-study-4008)  |  [intro-curriculum-4008](https://github.com/nnn-training/intro-curriculum-4008)  |
-|  4章10節  |  [websocket-study-4009](https://github.com/nnn-training/websocket-study-4009)  |  [intro-curriculum-4009](https://github.com/nnn-training/intro-curriculum-4009)  |
+|  4章7節  |  [webpack-study-4006](https://github.com/nnn-training/webpack-study-4006) <br> [damage-calc-4006](https://github.com/nnn-training/damage-calc-4006) |  [practice-intro-4006](https://github.com/nnn-training/practice-intro-4006)  |
+|  4章8節  |  [dom-manipulation-4007](https://github.com/nnn-training/dom-manipulation-4007)  |  [practice-intro-4007](https://github.com/nnn-training/practice-intro-4007)  |
+|  4章9節  |  [ajax-study-4008](https://github.com/nnn-training/ajax-study-4008)  |  [practice-intro-4008](https://github.com/nnn-training/practice-intro-4008)  |
+|  4章10節  |  [websocket-study-4009](https://github.com/nnn-training/websocket-study-4009)  |  [practice-intro-4009](https://github.com/nnn-training/practice-intro-4009)  |
 |  4章12節  |  [rdb-study](https://github.com/nnn-training/rdb-study)  |    |
 |  4章13節  |  [rdb-study](https://github.com/nnn-training/rdb-study)  |    |
 |  4章14節  |  [rdb-study](https://github.com/nnn-training/rdb-study)  |    |
