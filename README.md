@@ -29,7 +29,7 @@
 |  3章26節  |  [secret-board-3025](https://github.com/nnn-training/secret-board-3025)  |  [intro-curriculum-3025](https://github.com/nnn-training/intro-curriculum-3025)  |
 |  3章27節  |  [secret-board-3026](https://github.com/nnn-training/secret-board-3026)  |  [intro-curriculum-3026](https://github.com/nnn-training/intro-curriculum-3026)  |
 |  3章28節  |    |  [intro-curriculum-3027](https://github.com/nnn-training/intro-curriculum-3027)  |
-|  3章29節  |  [secret-board-3028](https://github.com/nnn-training/secret-board-3028)  |  [intro-curriculum-3028](https://github.com/nnn-training/intro-curriculum-3028)  |
+|  3章29節  |  [secret-board-3028](https://github.com/nnn-training/secret-board-3028)  |    |
 |  3章30節  |  [secret-board-3029](https://github.com/nnn-training/secret-board-3029) <br> [password-challenger](https://github.com/nnn-training/password-challenger) |    |
 |  3章31節  |  [secret-board-3030](https://github.com/nnn-training/secret-board-3030)  |  [intro-curriculum-3030](https://github.com/nnn-training/intro-curriculum-3030)  |
 |  3章32節  |  [secret-board-3031](https://github.com/nnn-training/secret-board-3031)  |  [intro-curriculum-3031](https://github.com/nnn-training/intro-curriculum-3031)  |
