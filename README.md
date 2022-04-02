@@ -1,6 +1,6 @@
 # 入門コースのリポジトリ一覧
 
-|  番号（2021年度） |  教材  |  練習問題  |
+|  番号（2022年度） |  教材  |  練習問題  |
 |:---:|:---:|:---:|
 |  2章16節 |  [pull-request-study](https://github.com/nnn-training/pull-request-study)  |  [pull-request-training](https://github.com/nnn-training/pull-request-training)  |
 |  3章2節  |    |  [intro-curriculum-3001](https://github.com/nnn-training/intro-curriculum-3001)  |
