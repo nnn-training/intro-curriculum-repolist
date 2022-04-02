@@ -32,9 +32,7 @@
 |  3章29節  |  [nn-chat-3028](https://github.com/nnn-training/nn-chat-3028)  |    |
 |  3章30節  |  [nn-chat-3029](https://github.com/nnn-training/nn-chat-3029) <br> [password-challenger](https://github.com/nnn-training/password-challenger) |    |
 |  3章31節  |  [nn-chat-3030](https://github.com/nnn-training/nn-chat-3030)  |  [intro-curriculum-3030](https://github.com/nnn-training/intro-curriculum-3030)  |
-|  3章32節  |  [nn-chat-3031](https://github.com/nnn-training/nn-chat-3031)  |  [intro-curriculum-3031](https://github.com/nnn-training/intro-curriculum-3031)  |
-|  3章33節  |  [nn-chat-3032](https://github.com/nnn-training/nn-chat-3032)  |  [intro-curriculum-3032](https://github.com/nnn-training/intro-curriculum-3032)  |
-|  3章34節  |  [nn-chat-3033](https://github.com/nnn-training/nn-chat-3033)  |    |
+|  3章32節  |  [nn-chat-3031](https://github.com/nnn-training/nn-chat-3031)  |   |
 |  4章2節  |    |  [practice-intro-4001](https://github.com/nnn-training/practice-intro-4001)  |
 |  4章3節  |  [express-api](https://github.com/nnn-training/express-api)  |  [practice-intro-4002](https://github.com/nnn-training/practice-intro-4002)  |
 |  4章4節  |  [github-oauth](https://github.com/nnn-training/github-oauth)  |  [practice-intro-4003](https://github.com/nnn-training/practice-intro-4003)  |
