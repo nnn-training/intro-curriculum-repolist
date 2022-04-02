@@ -2,7 +2,7 @@
 
 |  番号（2022年度） |  教材  |  練習問題  |
 |:---:|:---:|:---:|
-|  2章16節 |  [pull-request-study](https://github.com/nnn-training/pull-request-study)  |  [pull-request-training](https://github.com/nnn-training/pull-request-training)  |
+|  2章17節 |  [pull-request-study](https://github.com/nnn-training/pull-request-study)  |  [pull-request-training](https://github.com/nnn-training/pull-request-training)  |
 |  3章2節  |    |  [intro-curriculum-3001](https://github.com/nnn-training/intro-curriculum-3001)  |
 |  3章3節  |  [fibonacci](https://github.com/nnn-training/fibonacci)  |  [intro-curriculum-3002](https://github.com/nnn-training/intro-curriculum-3002)  |
 |  3章4節  |  [adding-up](https://github.com/nnn-training/adding-up)  |  [intro-curriculum-3003](https://github.com/nnn-training/intro-curriculum-3003)  |
